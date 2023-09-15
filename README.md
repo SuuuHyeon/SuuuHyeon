@@ -16,7 +16,7 @@
 <br>  
 
 <br>🛠 Tools 🛠<br><p>
-<img src="https://img.shields.io/badge/AndroidStudio IDEA-1E2A4E?style=flat&logo=Android IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-1E2A4E?style=flat&logo=intelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-E61845?style=flat&logo=Xcode&logoColor=white"/>
