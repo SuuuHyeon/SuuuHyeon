@@ -22,4 +22,6 @@
 <img src="https://img.shields.io/badge/Xcode-E61845?style=flat&logo=Xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-7B68EE?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuuuHyeon)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
