@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-7B68EE?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuuuHyeon&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuuuHyeon)
 <br>
 [![Suhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuuuHyeon)](https://github.com/anuraghazra/github-readme-stats)
 
