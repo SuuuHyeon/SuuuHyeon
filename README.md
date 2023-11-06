@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3BBAEAFF&height=300&section=header&text=Suhyeon🇰🇷&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#819FF7&height=300&section=header&text=Suhyeon🇰🇷&fontSize=85)
 <div align="center">
 
 
