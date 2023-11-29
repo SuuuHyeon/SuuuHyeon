@@ -8,7 +8,9 @@
  
 <div align="center">
   
-[![Suhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuuuHyeon&theme=nord&hide_border=true&count_private=true)](https://github.com/SuuuHyeon/github-readme-stats)
+<!--[![Suhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuuuHyeon&theme=nord&hide_border=true&count_private=true)](https://github.com/SuuuHyeon/github-readme-stats)-->
+
+![Suhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuuuHyeon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuuuHyeon&layout=compact&theme=nord)
 </div>
  
