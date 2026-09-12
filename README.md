@@ -7,8 +7,8 @@
  ---
  
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuuuHyeon&layout=compact&theme=nord&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+https://github-stats-extended.vercel.app/api?username=octocat&theme=radical
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SuuuHyeon&layout=compact&theme=nord&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
